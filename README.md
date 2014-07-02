@@ -1,4 +1,4 @@
-library
+Library Management Application
 =======
 Library Application using JavaSwing and MYSQL
 
