@@ -16,6 +16,7 @@ A graphical librarian interface is required for the librarian to interact with t
 library database via MYSQL connector. All queries, updates and deletes can
 be done from the GUI. Initial table data population to be done from the
 command line.
+
 2. Book search and availability
 
 ‘Search’ is implemented where librarian can look for books in all branches of
