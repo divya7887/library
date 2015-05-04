@@ -17,7 +17,7 @@ library database via MYSQL connector. All queries, updates and deletes can
 be done from the GUI. Initial table data population to be done from the
 command line.
 
-2. Book search and availability
+2.Book search and availability
 
 ‘Search’ is implemented where librarian can look for books in all branches of
 the library. Any combination of book_id, title, author name (first name, last
