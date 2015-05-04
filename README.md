@@ -34,7 +34,7 @@ substring matching is implemented. The search displays:
 Also, all books in the library can be displayed by clicking on
 ‘DisplayAllBooks’ button
 
-3. Book Loans
+3.Book Loans
 
 Book Check-In and Check-Out is designed to check-in and checkout books.
 Book_loan tuples are located by searching for book_id, Card_no, and/or any
@@ -53,7 +53,7 @@ book checkout for this particular borrower.
 To calculate due date and fine, if any, each book has a due date updated (i.e.
 14 days from checkout date).
 
-4. Borrower Management
+4.Borrower Management
 
 New borrowers can be added to the library application. A unique card_no will
 be generated (by selecting the largest card_no from borrower table and
@@ -65,7 +65,7 @@ to possess one library card only. A message will be displayed if an existing
 member tries to register with same name and address. Also, in this case
 registration will be rejected.
 
-5. Calculating Fine
+5.Calculating Fine
 
 Fines are calculated for borrowers who has not returned the book within due
 date. Exact amount of fine is calculated based on date of return and then
